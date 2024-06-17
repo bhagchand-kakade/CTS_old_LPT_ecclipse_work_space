@@ -1,0 +1,7 @@
+<projectDescription>
+    <name>spring-boot-web</name>
+    <comment></comment>
+    <projects></projects>
+    <buildSpec></buildSpec>
+    <natures></natures>
+</projectDescription>

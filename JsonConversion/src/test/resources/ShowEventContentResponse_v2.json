@@ -1,0 +1,3429 @@
+[
+  {
+    "eventDate": "2023-01-04",
+    "eventTz": "2023-01-04T18:00Z",
+    "eventId": "694e0fd3-49fc-4413-aaf4-4b46b19f7277",
+    "eventCode": "RCD0104E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-05",
+    "eventTz": "2023-01-05T18:00Z",
+    "eventId": "fa5865c8-4678-4450-994c-790ef065df8e",
+    "eventCode": "RCD0105E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-06",
+    "eventTz": "2023-01-06T18:00Z",
+    "eventId": "edf376f9-525f-4992-ab20-4fe1ee914e14",
+    "eventCode": "RCD0106E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-07",
+    "eventTz": "2023-01-07T18:00Z",
+    "eventId": "910d73f1-956d-4902-a9bf-d4969b86de5c",
+    "eventCode": "RCD0107E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-08",
+    "eventTz": "2023-01-08T18:00Z",
+    "eventId": "5de9af15-afe0-4126-84cc-0beea3c5b77d",
+    "eventCode": "RCD0108E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-09",
+    "eventTz": "2023-01-09T18:00Z",
+    "eventId": "df7da7d3-fb06-4414-92c9-afdb2b4b4dbb",
+    "eventCode": "RCD0109E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-10",
+    "eventTz": "2023-01-10T18:00Z",
+    "eventId": "a15628ec-0f0b-4e6f-a075-3daa8fcab022",
+    "eventCode": "RCD0110E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-11",
+    "eventTz": "2023-01-11T18:00Z",
+    "eventId": "926e1918-891c-48aa-964d-be19de5203c6",
+    "eventCode": "RCD0111E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-12",
+    "eventTz": "2023-01-12T18:00Z",
+    "eventId": "b17bb0d4-229a-44d4-9b91-1cdf27dd8f7f",
+    "eventCode": "RCD0112E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-13",
+    "eventTz": "2023-01-13T18:00Z",
+    "eventId": "65139805-bc9e-424b-9dee-a63aa144dee4",
+    "eventCode": "RCD0113E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-14",
+    "eventTz": "2023-01-14T18:00Z",
+    "eventId": "bdb4b647-1f34-4d4a-8fc4-8909778749de",
+    "eventCode": "RCD0114E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-15",
+    "eventTz": "2023-01-15T18:00Z",
+    "eventId": "08efaecf-81b0-4c83-81ce-4090f621134d",
+    "eventCode": "RCD0115E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-16",
+    "eventTz": "2023-01-16T18:00Z",
+    "eventId": "62582a74-3f58-4625-93d2-631ad50be7b7",
+    "eventCode": "RCD0116E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-17",
+    "eventTz": "2023-01-17T18:00Z",
+    "eventId": "9e20e07b-d588-4a9a-ba12-acda943bd5d7",
+    "eventCode": "RCD0117E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-18",
+    "eventTz": "2023-01-18T18:00Z",
+    "eventId": "e50c57f1-b19d-4a6f-997a-403b3134ff2d",
+    "eventCode": "RCD0118E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-19",
+    "eventTz": "2023-01-19T18:00Z",
+    "eventId": "22cb0bd7-970d-4a02-bb1f-562e1bf11438",
+    "eventCode": "RCD0119E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-20",
+    "eventTz": "2023-01-20T18:00Z",
+    "eventId": "69192032-ede9-4de3-8490-5a761066a460",
+    "eventCode": "RCD0120E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-21",
+    "eventTz": "2023-01-21T18:00Z",
+    "eventId": "b2dd4e8e-cfd4-419d-8c9f-87439c81945a",
+    "eventCode": "RCD0121E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-22",
+    "eventTz": "2023-01-22T18:00Z",
+    "eventId": "3f7bf85e-7677-496a-bc6c-f8e42434bdcb",
+    "eventCode": "RCD0122E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-23",
+    "eventTz": "2023-01-23T18:00Z",
+    "eventId": "59b5453a-baf3-4f99-b641-f63dc99c004a",
+    "eventCode": "RCD0123E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-24",
+    "eventTz": "2023-01-24T18:00Z",
+    "eventId": "0761a005-6b2d-40ee-862a-e997076c206f",
+    "eventCode": "RCD0124E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-25",
+    "eventTz": "2023-01-25T18:00Z",
+    "eventId": "1a6654f7-3c9a-4f45-a930-838dd642fa65",
+    "eventCode": "RCD0125E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-26",
+    "eventTz": "2023-01-26T18:00Z",
+    "eventId": "f2a7a5ca-9a32-460c-8461-9f5510498219",
+    "eventCode": "RCD0126E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-27",
+    "eventTz": "2023-01-27T18:00Z",
+    "eventId": "39936edc-9b5c-4b51-924e-881caf6db2ce",
+    "eventCode": "RCD0127E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-28",
+    "eventTz": "2023-01-28T18:00Z",
+    "eventId": "d62b203c-f150-4193-9783-5ec1e53fd28a",
+    "eventCode": "RCD0128E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-29",
+    "eventTz": "2023-01-29T18:00Z",
+    "eventId": "768ed693-ea9e-4c73-be42-254b0f56bf78",
+    "eventCode": "RCD0129E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-30",
+    "eventTz": "2023-01-30T18:00Z",
+    "eventId": "6e2cbcfc-b4e3-4b04-b390-5f5ba7688259",
+    "eventCode": "RCD0130E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-01-31",
+    "eventTz": "2023-01-31T18:00Z",
+    "eventId": "b24808d2-6ff8-455b-aa57-0a4f21bf2e58",
+    "eventCode": "RCD0131E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-01",
+    "eventTz": "2023-02-01T18:00Z",
+    "eventId": "f3a36e21-6f48-4f6e-b09d-74ef584442b4",
+    "eventCode": "RCD0201E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-02",
+    "eventTz": "2023-02-02T18:00Z",
+    "eventId": "d04261a6-d945-4059-9dfd-ee3c640191ac",
+    "eventCode": "RCD0202E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-03",
+    "eventTz": "2023-02-03T18:00Z",
+    "eventId": "efd76cc0-edbc-4b82-b754-ff0403f0f69c",
+    "eventCode": "RCD0203E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-04",
+    "eventTz": "2023-02-04T18:00Z",
+    "eventId": "56f44ef5-aef8-4b45-b560-7de3bf3f048d",
+    "eventCode": "RCD0204E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-05",
+    "eventTz": "2023-02-05T18:00Z",
+    "eventId": "6495e659-5e7b-46be-9dda-e3af973aab04",
+    "eventCode": "RCD0205E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-06",
+    "eventTz": "2023-02-06T18:00Z",
+    "eventId": "d968a0f0-16b9-4ba6-99d3-0054282a9f7a",
+    "eventCode": "RCD0206E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-07",
+    "eventTz": "2023-02-07T18:00Z",
+    "eventId": "6f3225d9-ef4b-40dd-b68b-bd34b2dae3e4",
+    "eventCode": "RCD0207E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-08",
+    "eventTz": "2023-02-08T18:00Z",
+    "eventId": "60e499e3-1c6b-4478-a673-f1da1bfec35e",
+    "eventCode": "RCD0208E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-09",
+    "eventTz": "2023-02-09T18:00Z",
+    "eventId": "062ae6c6-5980-429c-af71-6066327d5905",
+    "eventCode": "RCD0209E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-10",
+    "eventTz": "2023-02-10T18:00Z",
+    "eventId": "92f5a0fa-d3ff-4eb6-8243-1c2b56c86666",
+    "eventCode": "RCD0210E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-11",
+    "eventTz": "2023-02-11T18:00Z",
+    "eventId": "4c76a6ef-6362-4987-951b-b8bfad2289c5",
+    "eventCode": "RCD0211E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-12",
+    "eventTz": "2023-02-12T18:00Z",
+    "eventId": "3b0ead7d-7914-4628-8e01-bfdfe3e54196",
+    "eventCode": "RCD0212E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-13",
+    "eventTz": "2023-02-13T18:00Z",
+    "eventId": "b302f0ae-0b8a-499d-a81f-ab24767d3e13",
+    "eventCode": "RCD0213E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-14",
+    "eventTz": "2023-02-14T18:00Z",
+    "eventId": "83513698-4d4c-49c2-af74-166dc7a90f82",
+    "eventCode": "RCD0214E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-15",
+    "eventTz": "2023-02-15T18:00Z",
+    "eventId": "a0ae9fec-80cf-49b9-a5c6-5a7efaa84b40",
+    "eventCode": "RCD0215E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-16",
+    "eventTz": "2023-02-16T18:00Z",
+    "eventId": "e2e4ebb0-9086-4c60-9e75-362c5da854b0",
+    "eventCode": "RCD0216E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-17",
+    "eventTz": "2023-02-17T18:00Z",
+    "eventId": "bad9f747-dbd0-4085-accf-fbc736f1d815",
+    "eventCode": "RCD0217E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-18",
+    "eventTz": "2023-02-18T18:00Z",
+    "eventId": "88a9b863-1cff-47c3-a04b-e400260b377b",
+    "eventCode": "RCD0218E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-19",
+    "eventTz": "2023-02-19T18:00Z",
+    "eventId": "a027d1f0-3bab-489f-b7ac-51c4d1055bf3",
+    "eventCode": "RCD0219E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-20",
+    "eventTz": "2023-02-20T18:00Z",
+    "eventId": "4e6a0429-17a9-412b-aec8-0e0418cac2c8",
+    "eventCode": "RCD0220E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-21",
+    "eventTz": "2023-02-21T18:00Z",
+    "eventId": "2a7ef7c7-b9c7-44c9-ac4a-e6b6ae85db8a",
+    "eventCode": "RCD0221E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-22",
+    "eventTz": "2023-02-22T18:00Z",
+    "eventId": "da3d9067-83be-4595-8dca-19a845f7e52b",
+    "eventCode": "RCD0222E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-23",
+    "eventTz": "2023-02-23T18:00Z",
+    "eventId": "b5f5f3b0-1ed0-42b3-bd28-a2fa29bbdd8b",
+    "eventCode": "RCD0223E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-24",
+    "eventTz": "2023-02-24T18:00Z",
+    "eventId": "dd50123e-981c-4326-ba00-cf1a112044bc",
+    "eventCode": "RCD0224E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-25",
+    "eventTz": "2023-02-25T18:00Z",
+    "eventId": "199b8abd-d090-42b3-b92f-1efd164225e1",
+    "eventCode": "RCD0225E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-26",
+    "eventTz": "2023-02-26T18:00Z",
+    "eventId": "a2d97220-3bfe-48cd-8f40-382629b80228",
+    "eventCode": "RCD0226E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-27",
+    "eventTz": "2023-02-27T18:00Z",
+    "eventId": "70438d83-0754-4882-981b-e2b5f2c5de8c",
+    "eventCode": "RCD0227E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-02-28",
+    "eventTz": "2023-02-28T18:00Z",
+    "eventId": "1a180a37-9bb3-4df6-b081-a4cea3de3379",
+    "eventCode": "RCD0228E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-01",
+    "eventTz": "2023-03-01T18:00Z",
+    "eventId": "2c71af90-6a77-4f30-9d1d-e14a87229b09",
+    "eventCode": "RCD0301E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-02",
+    "eventTz": "2023-03-02T18:00Z",
+    "eventId": "70d49abe-038f-473a-be29-49fc0984cb0a",
+    "eventCode": "RCD0302E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-03",
+    "eventTz": "2023-03-03T18:00Z",
+    "eventId": "1c0a0d0e-71ae-4637-96e8-15b153202d9d",
+    "eventCode": "RCD0303E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-04",
+    "eventTz": "2023-03-04T18:00Z",
+    "eventId": "40b38f5b-38f4-4d69-8480-d1bd86024a5a",
+    "eventCode": "RCD0304E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-05",
+    "eventTz": "2023-03-05T18:00Z",
+    "eventId": "bc34a3d6-c2ac-4006-a084-d25ba7ad0127",
+    "eventCode": "RCD0305E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-06",
+    "eventTz": "2023-03-06T18:00Z",
+    "eventId": "ea5e7995-1241-40f6-9926-665f969d63c8",
+    "eventCode": "RCD0306E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-07",
+    "eventTz": "2023-03-07T18:00Z",
+    "eventId": "61292804-b4a3-4c4c-8e68-e0a562bece1f",
+    "eventCode": "RCD0307E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-08",
+    "eventTz": "2023-03-08T18:00Z",
+    "eventId": "98a3c060-4fc5-4fd6-8411-8a15f0f46236",
+    "eventCode": "RCD0308E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-09",
+    "eventTz": "2023-03-09T18:00Z",
+    "eventId": "1d0203ac-ede9-4629-85d1-124cd4795709",
+    "eventCode": "RCD0309E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-10",
+    "eventTz": "2023-03-10T18:00Z",
+    "eventId": "daf1c514-d958-4b49-85c1-53f476f4e1cf",
+    "eventCode": "RCD0310E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-11",
+    "eventTz": "2023-03-11T18:00Z",
+    "eventId": "d24a0898-3bdc-463d-9490-7d4147c2e78e",
+    "eventCode": "RCD0311E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-12",
+    "eventTz": "2023-03-12T17:00Z",
+    "eventId": "c4fda12c-1ff7-42f0-bea5-61aa51221277",
+    "eventCode": "RCD0312E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-13",
+    "eventTz": "2023-03-13T17:00Z",
+    "eventId": "4ac7125c-e75c-49d1-800e-facf71bae44c",
+    "eventCode": "RCD0313E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-14",
+    "eventTz": "2023-03-14T17:00Z",
+    "eventId": "a64a8c88-73af-4410-a16d-7a39b54f51e0",
+    "eventCode": "RCD0314E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-15",
+    "eventTz": "2023-03-15T17:00Z",
+    "eventId": "a07a3da0-9510-4a2a-9b85-bb2effec6f6c",
+    "eventCode": "RCD0315E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-16",
+    "eventTz": "2023-03-16T17:00Z",
+    "eventId": "798f939e-1a2d-4639-b73e-d0b1ed852f9b",
+    "eventCode": "RCD0316E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-17",
+    "eventTz": "2023-03-17T17:00Z",
+    "eventId": "41302148-12c5-402b-8fad-6e6a8d957562",
+    "eventCode": "RCD0317E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-18",
+    "eventTz": "2023-03-18T17:00Z",
+    "eventId": "3e930214-a87e-402d-9801-5639a6516ac6",
+    "eventCode": "RCD0318E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-19",
+    "eventTz": "2023-03-19T17:00Z",
+    "eventId": "37b11369-9ad9-426a-84b4-31e6978b6b94",
+    "eventCode": "RCD0319E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-20",
+    "eventTz": "2023-03-20T17:00Z",
+    "eventId": "f10d8eb6-fb2b-4142-89df-de14a6b083bd",
+    "eventCode": "RCD0320E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-21",
+    "eventTz": "2023-03-21T17:00Z",
+    "eventId": "92d6a8fd-377a-4426-af70-e2de6fec4d91",
+    "eventCode": "RCD0321E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-22",
+    "eventTz": "2023-03-22T17:00Z",
+    "eventId": "c6fdb011-659f-4dcb-bac8-f3faf1d077c4",
+    "eventCode": "RCD0322E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-23",
+    "eventTz": "2023-03-23T17:00Z",
+    "eventId": "0fdb6eaa-6798-438e-9844-7d671bdcda03",
+    "eventCode": "RCD0323E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-24",
+    "eventTz": "2023-03-24T17:00Z",
+    "eventId": "907993ab-70e3-43eb-ab08-79b44cde7942",
+    "eventCode": "RCD0324E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-25",
+    "eventTz": "2023-03-25T17:00Z",
+    "eventId": "117317f3-f766-4733-8996-dccdcaf5c4ee",
+    "eventCode": "RCD0325E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-26",
+    "eventTz": "2023-03-26T17:00Z",
+    "eventId": "8c144a93-53d2-4d87-8755-592b12b27752",
+    "eventCode": "RCD0326E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-27",
+    "eventTz": "2023-03-27T17:00Z",
+    "eventId": "b70b4ec6-525b-4cd5-b57c-80ffe9613684",
+    "eventCode": "RCD0327E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-28",
+    "eventTz": "2023-03-28T17:00Z",
+    "eventId": "409dbf86-1b17-44c1-a589-711272676520",
+    "eventCode": "RCD0328E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-29",
+    "eventTz": "2023-03-29T17:00Z",
+    "eventId": "25a1031d-bf05-41b6-9303-6b4888ad93eb",
+    "eventCode": "RCD0329E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-30",
+    "eventTz": "2023-03-30T17:00Z",
+    "eventId": "bbeaf900-6182-4280-97e5-faae56c85b7e",
+    "eventCode": "RCD0330E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-03-31",
+    "eventTz": "2023-03-31T17:00Z",
+    "eventId": "ec855ced-3858-4802-b077-9255bc750c5e",
+    "eventCode": "RCD0331E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-01",
+    "eventTz": "2023-04-01T17:00Z",
+    "eventId": "9bca8a5d-0a7b-42b0-ae55-5e9f467d0ad1",
+    "eventCode": "RCD0401E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-02",
+    "eventTz": "2023-04-02T17:00Z",
+    "eventId": "97210f9f-2b0e-4884-8514-8489d93fcd54",
+    "eventCode": "RCD0402E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-03",
+    "eventTz": "2023-04-03T17:00Z",
+    "eventId": "6c1f4101-3d32-4a22-bf8b-9e0e95577eb6",
+    "eventCode": "RCD0403E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-04",
+    "eventTz": "2023-04-04T17:00Z",
+    "eventId": "3973f870-e5ca-4118-bbb5-48f398148720",
+    "eventCode": "RCD0404E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-05",
+    "eventTz": "2023-04-05T17:00Z",
+    "eventId": "02853bd9-9cf9-4d64-89bd-f82adc0a54cf",
+    "eventCode": "RCD0405E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-06",
+    "eventTz": "2023-04-06T17:00Z",
+    "eventId": "43ad26ed-e1d7-4804-a1ad-ad7b9d37c7a2",
+    "eventCode": "RCD0406E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-07",
+    "eventTz": "2023-04-07T17:00Z",
+    "eventId": "114a3331-6f6e-4cfb-95fd-b04317bd58fe",
+    "eventCode": "RCD0407E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-08",
+    "eventTz": "2023-04-08T17:00Z",
+    "eventId": "3bcb377a-54a6-4907-8958-9138ee18d1c9",
+    "eventCode": "RCD0408E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-09",
+    "eventTz": "2023-04-09T17:00Z",
+    "eventId": "31194d10-272a-4e71-a344-91c506ea7f51",
+    "eventCode": "RCD0409E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-10",
+    "eventTz": "2023-04-10T17:00Z",
+    "eventId": "40315b23-c76b-4d5a-b5ff-9dcb4e3b4b04",
+    "eventCode": "RCD0410E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-11",
+    "eventTz": "2023-04-11T17:00Z",
+    "eventId": "9f28722b-1a6f-4fae-a2c3-2e645eb7e65c",
+    "eventCode": "RCD0411E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-12",
+    "eventTz": "2023-04-12T17:00Z",
+    "eventId": "fc128325-fca0-43a1-9ab8-fc33001eb1cc",
+    "eventCode": "RCD0412E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-13",
+    "eventTz": "2023-04-13T17:00Z",
+    "eventId": "f5811d44-6b79-4f6c-a2bc-19e6971cb22a",
+    "eventCode": "RCD0413E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-14",
+    "eventTz": "2023-04-14T17:00Z",
+    "eventId": "5506abe4-b4dd-424b-a66a-2a43000d939e",
+    "eventCode": "RCD0414E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-15",
+    "eventTz": "2023-04-15T17:00Z",
+    "eventId": "772efc3c-d989-45c2-8e5e-818d677f32e2",
+    "eventCode": "RCD0415E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-16",
+    "eventTz": "2023-04-16T17:00Z",
+    "eventId": "030fa64b-3122-4b73-a1fe-bd5a6d2377f9",
+    "eventCode": "RCD0416E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-17",
+    "eventTz": "2023-04-17T17:00Z",
+    "eventId": "494c243c-f80e-4ce5-960f-1ff02d184fd3",
+    "eventCode": "RCD0417E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-18",
+    "eventTz": "2023-04-18T17:00Z",
+    "eventId": "6257484b-3cf4-4994-9817-b96549357345",
+    "eventCode": "RCD0418E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-19",
+    "eventTz": "2023-04-19T17:00Z",
+    "eventId": "75806a2e-edcd-4b1c-ae0d-33309bb01cda",
+    "eventCode": "RCD0419E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-20",
+    "eventTz": "2023-04-20T17:00Z",
+    "eventId": "e010b504-847e-48b4-9b02-2ce327e9285a",
+    "eventCode": "RCD0420E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-21",
+    "eventTz": "2023-04-21T17:00Z",
+    "eventId": "7b4e3f0f-9f6b-49a1-a7bc-ca6fd95e86d3",
+    "eventCode": "RCD0421E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-22",
+    "eventTz": "2023-04-22T17:00Z",
+    "eventId": "e8edc5fe-95af-4fc3-9dfc-c1ecb7f3ddcb",
+    "eventCode": "RCD0422E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-23",
+    "eventTz": "2023-04-23T17:00Z",
+    "eventId": "1bbae623-7b3a-491d-ae4a-7a7a4bb9c89b",
+    "eventCode": "RCD0423E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-24",
+    "eventTz": "2023-04-24T17:00Z",
+    "eventId": "99b304dd-bc84-449e-8629-acd3b5af9431",
+    "eventCode": "RCD0424E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-25",
+    "eventTz": "2023-04-25T17:00Z",
+    "eventId": "e142b05c-0425-4e08-ac4e-6aba4ade3c6a",
+    "eventCode": "RCD0425E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-26",
+    "eventTz": "2023-04-26T17:00Z",
+    "eventId": "f2717353-f9dd-47b7-a838-77830fc6c966",
+    "eventCode": "RCD0426E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-27",
+    "eventTz": "2023-04-27T17:00Z",
+    "eventId": "6bc2c435-ae76-4e18-9ae2-1f3c6efe2f05",
+    "eventCode": "RCD0427E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-28",
+    "eventTz": "2023-04-28T17:00Z",
+    "eventId": "301b2daf-8722-4382-8516-39827b1ca4eb",
+    "eventCode": "RCD0428E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-29",
+    "eventTz": "2023-04-29T17:00Z",
+    "eventId": "d72df23a-5b82-4206-9eb0-ef872c82d73b",
+    "eventCode": "RCD0429E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-04-30",
+    "eventTz": "2023-04-30T17:00Z",
+    "eventId": "395a6f20-1f88-4a0b-aad6-934a659143e3",
+    "eventCode": "RCD0430E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-01",
+    "eventTz": "2023-05-01T17:00Z",
+    "eventId": "afe30ce0-2642-4eb0-a6b7-c06cb512d73c",
+    "eventCode": "RCD0501E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-02",
+    "eventTz": "2023-05-02T17:00Z",
+    "eventId": "624d15bf-2057-4ab2-aa6d-b7be06665c46",
+    "eventCode": "RCD0502E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-03",
+    "eventTz": "2023-05-03T17:00Z",
+    "eventId": "2f7ec111-a4aa-44b4-ab81-f56a2c61aabf",
+    "eventCode": "RCD0503E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-04",
+    "eventTz": "2023-05-04T17:00Z",
+    "eventId": "b27860aa-85c0-4561-9d64-6805db87f938",
+    "eventCode": "RCD0504E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-05",
+    "eventTz": "2023-05-05T17:00Z",
+    "eventId": "f450df94-66f8-4668-bf52-a4bbceb47e36",
+    "eventCode": "RCD0505E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-06",
+    "eventTz": "2023-05-06T17:00Z",
+    "eventId": "bca56f88-ac57-4106-b417-9a44857ecdec",
+    "eventCode": "RCD0506E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-07",
+    "eventTz": "2023-05-07T17:00Z",
+    "eventId": "91c60670-accc-43cd-a78b-a7c57d100b1b",
+    "eventCode": "RCD0507E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-08",
+    "eventTz": "2023-05-08T17:00Z",
+    "eventId": "e659d797-1471-48f8-952c-128a3aacb2c0",
+    "eventCode": "RCD0508E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-09",
+    "eventTz": "2023-05-09T17:00Z",
+    "eventId": "030a62d4-3fd5-4a07-ac0d-83a72ab377ff",
+    "eventCode": "RCD0509E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-10",
+    "eventTz": "2023-05-10T17:00Z",
+    "eventId": "1954b2fc-534c-4476-84ad-2d623abdcf10",
+    "eventCode": "RCD0510E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-11",
+    "eventTz": "2023-05-11T17:00Z",
+    "eventId": "8b55d95f-d310-4096-9e17-c03c20635ea2",
+    "eventCode": "RCD0511E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-12",
+    "eventTz": "2023-05-12T17:00Z",
+    "eventId": "2d04a1ea-50d5-4804-b9bf-a0260c4dd38c",
+    "eventCode": "RCD0512E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-13",
+    "eventTz": "2023-05-13T17:00Z",
+    "eventId": "1cc18103-2951-4ef4-9cc4-8ca0ff14285b",
+    "eventCode": "RCD0513E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-14",
+    "eventTz": "2023-05-14T17:00Z",
+    "eventId": "1a4c448c-1bec-4a1e-a093-d6fbd841b6df",
+    "eventCode": "RCD0514E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-15",
+    "eventTz": "2023-05-15T17:00Z",
+    "eventId": "c5738752-bd51-480f-ac67-79a1f16f174d",
+    "eventCode": "RCD0515E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-16",
+    "eventTz": "2023-05-16T17:00Z",
+    "eventId": "88f6d4da-3aba-4811-815b-2ca02f8aecdc",
+    "eventCode": "RCD0516E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-17",
+    "eventTz": "2023-05-17T17:00Z",
+    "eventId": "0be4479f-b76b-41f1-b396-72b247980dac",
+    "eventCode": "RCD0517E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-18",
+    "eventTz": "2023-05-18T17:00Z",
+    "eventId": "3b6310c5-ecd2-4861-8d89-ec90d1979586",
+    "eventCode": "RCD0518E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-19",
+    "eventTz": "2023-05-19T17:00Z",
+    "eventId": "95bbd145-c181-4b40-b7ea-9bba8140f14c",
+    "eventCode": "RCD0519E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-20",
+    "eventTz": "2023-05-20T17:00Z",
+    "eventId": "c8627241-912c-4d18-896d-bdcb8feafc1c",
+    "eventCode": "RCD0520E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-21",
+    "eventTz": "2023-05-21T17:00Z",
+    "eventId": "56506b10-ac5d-4466-b2ee-60456a57f829",
+    "eventCode": "RCD0521E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-22",
+    "eventTz": "2023-05-22T17:00Z",
+    "eventId": "99b750dc-0ed9-42dd-b260-ab398d1ab1cc",
+    "eventCode": "RCD0522E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-23",
+    "eventTz": "2023-05-23T17:00Z",
+    "eventId": "2247f0fd-650c-4582-ae2c-950d5bdc7d58",
+    "eventCode": "RCD0523E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-24",
+    "eventTz": "2023-05-24T17:00Z",
+    "eventId": "de197fef-9f39-4dfd-9693-ac5b049f5884",
+    "eventCode": "RCD0524E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-25",
+    "eventTz": "2023-05-25T17:00Z",
+    "eventId": "31e92189-22e3-4c59-9849-922056d08d50",
+    "eventCode": "RCD0525E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-26",
+    "eventTz": "2023-05-26T17:00Z",
+    "eventId": "8a25ce89-6cf7-45ce-9bbc-44ce17c05e81",
+    "eventCode": "RCD0526E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-27",
+    "eventTz": "2023-05-27T17:00Z",
+    "eventId": "34829f75-2f27-4855-a9a2-e55e8cb83d33",
+    "eventCode": "RCD0527E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-28",
+    "eventTz": "2023-05-28T17:00Z",
+    "eventId": "fec77c13-edb2-41b6-9ee3-59bc860aa521",
+    "eventCode": "RCD0528E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-29",
+    "eventTz": "2023-05-29T17:00Z",
+    "eventId": "0fde45a0-f06f-49e2-ae44-9ae20ef69059",
+    "eventCode": "RCD0529E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-30",
+    "eventTz": "2023-05-30T17:00Z",
+    "eventId": "4b061d5c-4b1b-4281-bda5-d32361933fa8",
+    "eventCode": "RCD0530E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-05-31",
+    "eventTz": "2023-05-31T17:00Z",
+    "eventId": "707ca1fb-83f6-4891-bc9d-723da66f0412",
+    "eventCode": "RCD0531E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-01",
+    "eventTz": "2023-06-01T17:00Z",
+    "eventId": "686ac758-e267-4bad-ba80-6e0bb3bef4c2",
+    "eventCode": "RCD0601E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-02",
+    "eventTz": "2023-06-02T17:00Z",
+    "eventId": "5040d40b-59bf-4750-aa5f-9d4383ce94c1",
+    "eventCode": "RCD0602E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-03",
+    "eventTz": "2023-06-03T17:00Z",
+    "eventId": "0b342466-e3bd-4391-80f5-3895b9479f98",
+    "eventCode": "RCD0603E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-04",
+    "eventTz": "2023-06-04T17:00Z",
+    "eventId": "f7cf5ec4-e27e-4b4e-8449-940f462f78e6",
+    "eventCode": "RCD0604E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-05",
+    "eventTz": "2023-06-05T17:00Z",
+    "eventId": "53e182a3-c1a4-413f-819b-386fd59b6689",
+    "eventCode": "RCD0605E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-06",
+    "eventTz": "2023-06-06T17:00Z",
+    "eventId": "d97d6998-1c5a-40c9-b5d2-1e8e5aaa4e34",
+    "eventCode": "RCD0606E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-07",
+    "eventTz": "2023-06-07T17:00Z",
+    "eventId": "5ef702d6-77f3-4022-ad91-84788b73bf41",
+    "eventCode": "RCD0607E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-08",
+    "eventTz": "2023-06-08T17:00Z",
+    "eventId": "efe71ab6-2b0b-4333-a8e7-7422215f8e3b",
+    "eventCode": "RCD0608E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-09",
+    "eventTz": "2023-06-09T17:00Z",
+    "eventId": "1fcf6282-6a0c-48bd-aa59-6c4859b57fcf",
+    "eventCode": "RCD0609E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-10",
+    "eventTz": "2023-06-10T17:00Z",
+    "eventId": "9e3fe779-4ad1-4e0d-a612-0fbe372f51a6",
+    "eventCode": "RCD0610E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-11",
+    "eventTz": "2023-06-11T17:00Z",
+    "eventId": "1a609c3d-d225-472d-884c-0b9abbbee6cc",
+    "eventCode": "RCD0611E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-12",
+    "eventTz": "2023-06-12T17:00Z",
+    "eventId": "b982728f-b92a-4e02-ac6c-b3c5442af3a3",
+    "eventCode": "RCD0612E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-13",
+    "eventTz": "2023-06-13T17:00Z",
+    "eventId": "0eb7d8e5-3137-4747-9a71-8d5998d0f611",
+    "eventCode": "RCD0613E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-14",
+    "eventTz": "2023-06-14T17:00Z",
+    "eventId": "b8a953f0-9c59-427a-b5f6-271629f80da6",
+    "eventCode": "RCD0614E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-15",
+    "eventTz": "2023-06-15T17:00Z",
+    "eventId": "7b732529-a485-477d-9144-16c294b29557",
+    "eventCode": "RCD0615E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-16",
+    "eventTz": "2023-06-16T17:00Z",
+    "eventId": "aa91b217-9227-4843-a597-c1c291e66b1b",
+    "eventCode": "RCD0616E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-17",
+    "eventTz": "2023-06-17T17:00Z",
+    "eventId": "8bb033dd-1417-4020-8738-75342e4c2ee4",
+    "eventCode": "RCD0617E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-18",
+    "eventTz": "2023-06-18T17:00Z",
+    "eventId": "4b4baada-ba77-44bc-bf70-0a144be17db6",
+    "eventCode": "RCD0618E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-19",
+    "eventTz": "2023-06-19T17:00Z",
+    "eventId": "4103fcd8-ad20-4ea0-8472-3a30a43c5840",
+    "eventCode": "RCD0619E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-20",
+    "eventTz": "2023-06-20T17:00Z",
+    "eventId": "de21f4e1-97f4-4f4a-b643-a86071c28566",
+    "eventCode": "RCD0620E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-21",
+    "eventTz": "2023-06-21T17:00Z",
+    "eventId": "d9819587-2d52-4612-8b45-5f18c4ce83e6",
+    "eventCode": "RCD0621E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-22",
+    "eventTz": "2023-06-22T17:00Z",
+    "eventId": "7463adbc-a223-46c6-abb2-8e17438694c5",
+    "eventCode": "RCD0622E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-23",
+    "eventTz": "2023-06-23T17:00Z",
+    "eventId": "b8b9fc80-4f68-4a2b-949c-fb64f8949e16",
+    "eventCode": "RCD0623E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-24",
+    "eventTz": "2023-06-24T17:00Z",
+    "eventId": "debada42-78af-40b8-abe2-00af304ce7fb",
+    "eventCode": "RCD0624E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-25",
+    "eventTz": "2023-06-25T17:00Z",
+    "eventId": "48a0d656-15d1-4c5a-81fd-9fa00bf8c659",
+    "eventCode": "RCD0625E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-26",
+    "eventTz": "2023-06-26T17:00Z",
+    "eventId": "ded63b4e-67f0-4a19-8348-4fb94c5871dd",
+    "eventCode": "RCD0626E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-27",
+    "eventTz": "2023-06-27T17:00Z",
+    "eventId": "8d38dc03-b8e2-43b7-9962-493a2957c199",
+    "eventCode": "RCD0627E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-28",
+    "eventTz": "2023-06-28T17:00Z",
+    "eventId": "6ca9f111-df87-4465-8be7-804dc9ad2cda",
+    "eventCode": "RCD0628E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-29",
+    "eventTz": "2023-06-29T17:00Z",
+    "eventId": "1a414e71-5ada-45b8-8690-c81ae6e02ec0",
+    "eventCode": "RCD0629E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-06-30",
+    "eventTz": "2023-06-30T17:00Z",
+    "eventId": "4c15eac1-e620-4787-85eb-c8b15838a9e5",
+    "eventCode": "RCD0630E",
+    "eventTime": "10:00 AM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "programId": "dd8946d2-ffe6-41d9-b7ed-547bd661fa3d",
+    "offerAvailable": true
+  },
+  {
+    "eventDate": "2023-07-01",
+    "eventTz": "2023-07-02T06:00Z",
+    "eventId": "d5ef27b5-a11b-4d0d-a99f-46c404566c99",
+    "eventCode": "RCD0701E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-02",
+    "eventTz": "2023-07-03T05:00Z",
+    "eventId": "d812079f-7369-4eaa-a282-2bf6fe76e67e",
+    "eventCode": "RCD0702E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-03",
+    "eventTz": "2023-07-04T05:00Z",
+    "eventId": "20bce34d-49b5-4a34-8933-d3b8c6f762ce",
+    "eventCode": "RCD0703E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-04",
+    "eventTz": "2023-07-05T05:00Z",
+    "eventId": "c13d97eb-aefc-44e4-bba4-30ce9bf0b4eb",
+    "eventCode": "RCD0704E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-05",
+    "eventTz": "2023-07-06T05:00Z",
+    "eventId": "711dc7ee-96ce-409e-873d-0f5576f71028",
+    "eventCode": "RCD0705E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-06",
+    "eventTz": "2023-07-07T05:00Z",
+    "eventId": "81827b9d-5935-4152-af00-979afcf3468d",
+    "eventCode": "RCD0706E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-07",
+    "eventTz": "2023-07-08T06:00Z",
+    "eventId": "9303e246-117b-4dfc-bf9b-6de8e74a5f29",
+    "eventCode": "RCD0707E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-08",
+    "eventTz": "2023-07-09T06:00Z",
+    "eventId": "488ddeaf-589a-4d82-bea6-a0cecbf77a65",
+    "eventCode": "RCD0708E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-09",
+    "eventTz": "2023-07-10T05:00Z",
+    "eventId": "e60b753c-e08f-4e44-93b2-05b6f39a28b8",
+    "eventCode": "RCD0709E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-10",
+    "eventTz": "2023-07-11T05:00Z",
+    "eventId": "11183d74-c11f-4bc7-9635-1174fef1e464",
+    "eventCode": "RCD0710E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-11",
+    "eventTz": "2023-07-12T05:00Z",
+    "eventId": "fe8a39ea-b5a9-46b9-8b90-9999f33b428e",
+    "eventCode": "RCD0711E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-12",
+    "eventTz": "2023-07-13T05:00Z",
+    "eventId": "5ccd3e0e-a596-414b-9eb7-2753004ca657",
+    "eventCode": "RCD0712E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-13",
+    "eventTz": "2023-07-14T05:00Z",
+    "eventId": "bbf88098-f1ac-4ddb-929f-5f87f8b4bd6c",
+    "eventCode": "RCD0713E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-14",
+    "eventTz": "2023-07-15T06:00Z",
+    "eventId": "b571d5d4-d97f-4354-af49-00660d5ff419",
+    "eventCode": "RCD0714E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-15",
+    "eventTz": "2023-07-16T06:00Z",
+    "eventId": "b923699f-bfbc-4663-88c0-3855179820e4",
+    "eventCode": "RCD0715E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-16",
+    "eventTz": "2023-07-17T05:00Z",
+    "eventId": "2642615f-a5b0-423f-8b70-7afea8f23145",
+    "eventCode": "RCD0716E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-17",
+    "eventTz": "2023-07-18T05:00Z",
+    "eventId": "2c29c1c0-7e2c-410e-8ac2-54757af2b229",
+    "eventCode": "RCD0717E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-18",
+    "eventTz": "2023-07-19T05:00Z",
+    "eventId": "8b64e0e8-30d4-4117-977b-8c1d44c31b1a",
+    "eventCode": "RCD0718E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-19",
+    "eventTz": "2023-07-20T05:00Z",
+    "eventId": "387c42ce-9969-4da2-9eaa-146418964c81",
+    "eventCode": "RCD0719E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-20",
+    "eventTz": "2023-07-21T05:00Z",
+    "eventId": "24e232a0-7c3d-4413-9fa4-286fbb0a3f81",
+    "eventCode": "RCD0720E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-21",
+    "eventTz": "2023-07-22T06:00Z",
+    "eventId": "a4fea810-22f6-4b09-928a-3f7bc0d9bb74",
+    "eventCode": "RCD0721E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-22",
+    "eventTz": "2023-07-23T06:00Z",
+    "eventId": "0ec863cd-1f15-4651-a3bd-5d4e86c544a4",
+    "eventCode": "RCD0722E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-23",
+    "eventTz": "2023-07-24T05:00Z",
+    "eventId": "04d431a1-0da4-48d0-b99e-d73a379c4b33",
+    "eventCode": "RCD0723E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-24",
+    "eventTz": "2023-07-25T05:00Z",
+    "eventId": "83552a3a-ea42-44bb-a64e-d6e49cacf74a",
+    "eventCode": "RCD0724E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-25",
+    "eventTz": "2023-07-26T05:00Z",
+    "eventId": "8facea2c-da41-447e-9662-016f149a3ebb",
+    "eventCode": "RCD0725E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-26",
+    "eventTz": "2023-07-27T05:00Z",
+    "eventId": "19682a5e-6fb1-473e-b2df-d6879e49a97b",
+    "eventCode": "RCD0726E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-27",
+    "eventTz": "2023-07-28T05:00Z",
+    "eventId": "f874c113-1963-4323-95c9-d9a19c79ba95",
+    "eventCode": "RCD0727E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-28",
+    "eventTz": "2023-07-29T06:00Z",
+    "eventId": "5c8b44e0-50cd-40a0-867a-7710f9a36ff1",
+    "eventCode": "RCD0728E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-29",
+    "eventTz": "2023-07-30T06:00Z",
+    "eventId": "7de4f219-1a34-46d1-82e9-1628e2dbd0fc",
+    "eventCode": "RCD0729E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-30",
+    "eventTz": "2023-07-31T05:00Z",
+    "eventId": "7b91b0a8-4f75-4f66-8980-70c390ae05df",
+    "eventCode": "RCD0730E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-07-31",
+    "eventTz": "2023-08-01T05:00Z",
+    "eventId": "8a5519c3-eafb-45ec-a87c-ce2698fc53b4",
+    "eventCode": "RCD0731E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-01",
+    "eventTz": "2023-08-02T05:00Z",
+    "eventId": "09a3e6bf-f466-4936-b531-b551be30dd49",
+    "eventCode": "RCD0801E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-02",
+    "eventTz": "2023-08-03T05:00Z",
+    "eventId": "8271c690-4482-4440-bb88-6572e9679b6c",
+    "eventCode": "RCD0802E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-03",
+    "eventTz": "2023-08-04T05:00Z",
+    "eventId": "a9c06ca4-ff6d-4290-ad79-83909ef46ea2",
+    "eventCode": "RCD0803E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-04",
+    "eventTz": "2023-08-05T06:00Z",
+    "eventId": "f045a2c2-f76f-4392-a90d-affed3dc082b",
+    "eventCode": "RCD0804E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-05",
+    "eventTz": "2023-08-06T06:00Z",
+    "eventId": "b5832e6a-de8b-4bab-8013-8bba1a7b4641",
+    "eventCode": "RCD0805E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-06",
+    "eventTz": "2023-08-07T05:00Z",
+    "eventId": "9cd3ed8e-bad3-4b5f-93d6-7f300569a0f5",
+    "eventCode": "RCD0806E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-07",
+    "eventTz": "2023-08-08T05:00Z",
+    "eventId": "e60d5572-d069-4210-b678-2b10f91904f5",
+    "eventCode": "RCD0807E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-08",
+    "eventTz": "2023-08-09T05:00Z",
+    "eventId": "f4a96088-7753-4fca-8c2a-314180399192",
+    "eventCode": "RCD0808E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-09",
+    "eventTz": "2023-08-10T05:00Z",
+    "eventId": "3144b9df-845d-46f8-bd1f-196360ff72a0",
+    "eventCode": "RCD0809E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-10",
+    "eventTz": "2023-08-11T05:00Z",
+    "eventId": "6c89eb79-eecd-4780-ba31-8a914c325b22",
+    "eventCode": "RCD0810E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-11",
+    "eventTz": "2023-08-12T06:00Z",
+    "eventId": "7bd080ca-2de9-450a-956c-17e4ae7fdb52",
+    "eventCode": "RCD0811E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-12",
+    "eventTz": "2023-08-13T06:00Z",
+    "eventId": "110f75d8-2075-489e-a010-a6fdeebb95e5",
+    "eventCode": "RCD0812E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-13",
+    "eventTz": "2023-08-14T05:00Z",
+    "eventId": "82e3eab4-9ddc-4065-95e1-49ebca367ffe",
+    "eventCode": "RCD0813E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-14",
+    "eventTz": "2023-08-15T05:00Z",
+    "eventId": "db4befaf-ff85-4d98-afe9-6277f3320d3b",
+    "eventCode": "RCD0814E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-15",
+    "eventTz": "2023-08-16T05:00Z",
+    "eventId": "c6bd01f2-b5fd-4c70-bc2c-c9e77f481003",
+    "eventCode": "RCD0815E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-16",
+    "eventTz": "2023-08-17T05:00Z",
+    "eventId": "d3f0fb04-043c-4a7c-9752-7a23ad3eab03",
+    "eventCode": "RCD0816E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-17",
+    "eventTz": "2023-08-18T05:00Z",
+    "eventId": "cb501527-5fb9-467c-9017-021833c54fac",
+    "eventCode": "RCD0817E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-18",
+    "eventTz": "2023-08-19T06:00Z",
+    "eventId": "d405d26b-3ee8-4ab5-89cc-2c5842808efa",
+    "eventCode": "RCD0818E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-19",
+    "eventTz": "2023-08-20T06:00Z",
+    "eventId": "b3d2d251-64c6-4250-b9f1-a8555ea8045d",
+    "eventCode": "RCD0819E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-20",
+    "eventTz": "2023-08-21T05:00Z",
+    "eventId": "ad38493e-1f7d-4a49-8cfa-a56d987a119f",
+    "eventCode": "RCD0820E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-21",
+    "eventTz": "2023-08-22T05:00Z",
+    "eventId": "76055589-9572-49b2-9e47-3e44ff22aa05",
+    "eventCode": "RCD0821E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-22",
+    "eventTz": "2023-08-23T05:00Z",
+    "eventId": "f28cbd59-62ad-428b-884f-59c2bfd9ac0d",
+    "eventCode": "RCD0822E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-23",
+    "eventTz": "2023-08-24T05:00Z",
+    "eventId": "1bc072ae-c42f-41e8-b307-28969ceb3ee3",
+    "eventCode": "RCD0823E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-24",
+    "eventTz": "2023-08-25T05:00Z",
+    "eventId": "1da1bae1-4df8-4f8a-959e-bd826dc9a884",
+    "eventCode": "RCD0824E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-25",
+    "eventTz": "2023-08-26T06:00Z",
+    "eventId": "e25fc0db-ad95-4717-bc05-d157cee75164",
+    "eventCode": "RCD0825E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-26",
+    "eventTz": "2023-08-27T06:00Z",
+    "eventId": "9ea5aafd-f359-4de2-a108-f03bb382b1c9",
+    "eventCode": "RCD0826E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-27",
+    "eventTz": "2023-08-28T05:00Z",
+    "eventId": "bbbd5a47-fb06-4505-a61a-c36b3bc73611",
+    "eventCode": "RCD0827E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-28",
+    "eventTz": "2023-08-29T05:00Z",
+    "eventId": "7a4ee7ed-67f5-4caf-9a54-f032e66b858d",
+    "eventCode": "RCD0828E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-29",
+    "eventTz": "2023-08-30T05:00Z",
+    "eventId": "efc33954-f826-4a02-98b2-342e4a5cb29a",
+    "eventCode": "RCD0829E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-30",
+    "eventTz": "2023-08-31T05:00Z",
+    "eventId": "970720d4-8500-4150-952c-d9f3f679fc5c",
+    "eventCode": "RCD0830E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-08-31",
+    "eventTz": "2023-09-01T05:00Z",
+    "eventId": "1de280f0-dbbd-44f1-935d-c948b280df64",
+    "eventCode": "RCD0831E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-01",
+    "eventTz": "2023-09-02T06:00Z",
+    "eventId": "38c0380f-027e-46ab-ad7d-a3a1957d2d3a",
+    "eventCode": "RCD0901E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-02",
+    "eventTz": "2023-09-03T06:00Z",
+    "eventId": "71095a96-de6b-44e4-882f-ce85db85aa9d",
+    "eventCode": "RCD0902E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-03",
+    "eventTz": "2023-09-04T05:00Z",
+    "eventId": "1c8eddbc-6a6d-4ae6-9354-581a3119fcb0",
+    "eventCode": "RCD0903E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-04",
+    "eventTz": "2023-09-05T05:00Z",
+    "eventId": "cd9080a5-b111-4c21-81fe-8f3c012c2b2e",
+    "eventCode": "RCD0904E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-05",
+    "eventTz": "2023-09-06T05:00Z",
+    "eventId": "6e139891-30db-4f4d-ac38-c190a3d1ee7c",
+    "eventCode": "RCD0905E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-06",
+    "eventTz": "2023-09-07T05:00Z",
+    "eventId": "5a38b5e6-0787-4f5b-b120-cf86855826cf",
+    "eventCode": "RCD0906E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-07",
+    "eventTz": "2023-09-08T05:00Z",
+    "eventId": "6bd202d4-64b7-4e44-8d85-0aaf87003015",
+    "eventCode": "RCD0907E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-08",
+    "eventTz": "2023-09-09T06:00Z",
+    "eventId": "ea511ffe-a78a-424f-828d-143224794e4b",
+    "eventCode": "RCD0908E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-09",
+    "eventTz": "2023-09-10T06:00Z",
+    "eventId": "e546ef0a-ae8f-49aa-a35a-ca8527b0f3e1",
+    "eventCode": "RCD0909E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-10",
+    "eventTz": "2023-09-11T05:00Z",
+    "eventId": "d3e040e4-74fb-4754-90d3-1fcdc4376b3e",
+    "eventCode": "RCD0910E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-11",
+    "eventTz": "2023-09-12T05:00Z",
+    "eventId": "627ed3e8-6192-4738-ac27-536b2be71faa",
+    "eventCode": "RCD0911E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-12",
+    "eventTz": "2023-09-13T05:00Z",
+    "eventId": "804e2c28-0e90-4487-8fd4-01d6e485fa18",
+    "eventCode": "RCD0912E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-13",
+    "eventTz": "2023-09-14T05:00Z",
+    "eventId": "98e54bfb-869f-4467-9976-f3d8aea70432",
+    "eventCode": "RCD0913E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-14",
+    "eventTz": "2023-09-15T05:00Z",
+    "eventId": "d03ae96c-1bfb-4079-82e8-fd31be2596e4",
+    "eventCode": "RCD0914E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-15",
+    "eventTz": "2023-09-16T06:00Z",
+    "eventId": "fd2c2e7c-4146-4351-a920-b2d36d657f1d",
+    "eventCode": "RCD0915E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-16",
+    "eventTz": "2023-09-17T06:00Z",
+    "eventId": "0876417e-c28b-4efd-b921-b6818b3757ed",
+    "eventCode": "RCD0916E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-17",
+    "eventTz": "2023-09-18T05:00Z",
+    "eventId": "bb7c63b6-b458-40ec-bee7-3ed7dcbc74f4",
+    "eventCode": "RCD0917E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-18",
+    "eventTz": "2023-09-19T05:00Z",
+    "eventId": "53786cf8-baea-4545-8106-48d7e49d0310",
+    "eventCode": "RCD0918E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-19",
+    "eventTz": "2023-09-20T05:00Z",
+    "eventId": "b4ae3b03-6b3c-4181-b5d1-9701ff404691",
+    "eventCode": "RCD0919E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-20",
+    "eventTz": "2023-09-21T05:00Z",
+    "eventId": "d36dbd8d-95d8-4d7c-80ec-1464d57b7734",
+    "eventCode": "RCD0920E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-21",
+    "eventTz": "2023-09-22T05:00Z",
+    "eventId": "f66c1d6a-9bf3-4e00-81ba-844a3be14bc8",
+    "eventCode": "RCD0921E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-22",
+    "eventTz": "2023-09-23T06:00Z",
+    "eventId": "1c32413e-d94e-4487-b0a5-bdcf5e2f2526",
+    "eventCode": "RCD0922E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-23",
+    "eventTz": "2023-09-24T06:00Z",
+    "eventId": "d930af1a-3899-4b6a-a3d6-368c2c979f34",
+    "eventCode": "RCD0923E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-24",
+    "eventTz": "2023-09-25T05:00Z",
+    "eventId": "e04e6e77-31a7-436f-825a-f8960c5ed725",
+    "eventCode": "RCD0924E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-25",
+    "eventTz": "2023-09-26T05:00Z",
+    "eventId": "a62bfbd0-0691-4e22-a130-0baa412d87ec",
+    "eventCode": "RCD0925E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-26",
+    "eventTz": "2023-09-27T05:00Z",
+    "eventId": "e3a0f632-5d97-4649-98cf-fef3da5fdec4",
+    "eventCode": "RCD0926E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-27",
+    "eventTz": "2023-09-28T05:00Z",
+    "eventId": "a2eb422a-2dd4-47be-b6de-f400028245b4",
+    "eventCode": "RCD0927E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-28",
+    "eventTz": "2023-09-29T05:00Z",
+    "eventId": "0ec767ee-4bb1-4c16-872e-470ad9dad037",
+    "eventCode": "RCD0928E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-29",
+    "eventTz": "2023-09-30T06:00Z",
+    "eventId": "b66e2936-8c59-4326-867b-d170dfc2c506",
+    "eventCode": "RCD0929E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-09-30",
+    "eventTz": "2023-10-01T06:00Z",
+    "eventId": "f2c9e408-dbe9-4e29-89c4-7c1f13c7ad7e",
+    "eventCode": "RCD0930E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-01",
+    "eventTz": "2023-10-02T05:00Z",
+    "eventId": "f7bea329-24e7-4e5c-8f85-a551ac50e3a3",
+    "eventCode": "RCD1001E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-02",
+    "eventTz": "2023-10-03T05:00Z",
+    "eventId": "4824edf6-2a49-4afa-914e-fe13b69e701c",
+    "eventCode": "RCD1002E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-03",
+    "eventTz": "2023-10-04T05:00Z",
+    "eventId": "e3ccb941-b11d-44ad-8453-cd14774e5f03",
+    "eventCode": "RCD1003E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-04",
+    "eventTz": "2023-10-05T05:00Z",
+    "eventId": "7b22ba44-12b0-4d01-86c7-e31bb8411258",
+    "eventCode": "RCD1004E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-05",
+    "eventTz": "2023-10-06T05:00Z",
+    "eventId": "27bf9596-aa32-4e3d-a839-251e22d73989",
+    "eventCode": "RCD1005E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-06",
+    "eventTz": "2023-10-07T06:00Z",
+    "eventId": "c649666a-b895-4de3-ae2e-2136061b152d",
+    "eventCode": "RCD1006E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-07",
+    "eventTz": "2023-10-08T06:00Z",
+    "eventId": "3de0542f-a868-4af1-8384-15ebdbbfffd8",
+    "eventCode": "RCD1007E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-08",
+    "eventTz": "2023-10-09T05:00Z",
+    "eventId": "48e6e5f8-037e-4d0c-9f00-a0b18904f66d",
+    "eventCode": "RCD1008E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-09",
+    "eventTz": "2023-10-10T05:00Z",
+    "eventId": "8b4f78a2-491a-4cee-8965-eb0c991a8627",
+    "eventCode": "RCD1009E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-10",
+    "eventTz": "2023-10-11T05:00Z",
+    "eventId": "869ab666-fdc0-4d6e-8c27-568b35f2de91",
+    "eventCode": "RCD1010E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-11",
+    "eventTz": "2023-10-12T05:00Z",
+    "eventId": "4fdaee11-117c-4947-a46a-38f1aaeef9dd",
+    "eventCode": "RCD1011E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-12",
+    "eventTz": "2023-10-13T05:00Z",
+    "eventId": "00f413d6-5c34-467e-acf2-5ff7c71a003d",
+    "eventCode": "RCD1012E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-13",
+    "eventTz": "2023-10-14T06:00Z",
+    "eventId": "3aad0292-5951-4f06-aef7-71347734d455",
+    "eventCode": "RCD1013E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-14",
+    "eventTz": "2023-10-15T06:00Z",
+    "eventId": "5d099925-407f-4ec1-ac6f-2f3e61994756",
+    "eventCode": "RCD1014E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-15",
+    "eventTz": "2023-10-16T05:00Z",
+    "eventId": "1b86340c-2d42-452a-83bd-9797e3bf366d",
+    "eventCode": "RCD1015E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-16",
+    "eventTz": "2023-10-17T05:00Z",
+    "eventId": "63122981-8101-4af2-b544-3ef5f7686644",
+    "eventCode": "RCD1016E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-17",
+    "eventTz": "2023-10-18T05:00Z",
+    "eventId": "a88ba105-5653-43d3-9bd6-dd9eb38263ba",
+    "eventCode": "RCD1017E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-18",
+    "eventTz": "2023-10-19T05:00Z",
+    "eventId": "2ee16322-b715-4b68-bebb-a5a3425fff35",
+    "eventCode": "RCD1018E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-19",
+    "eventTz": "2023-10-20T05:00Z",
+    "eventId": "ee80b63c-9cfc-4474-bbaf-98cb48817dfb",
+    "eventCode": "RCD1019E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-20",
+    "eventTz": "2023-10-21T06:00Z",
+    "eventId": "2777a653-4018-4cf7-9c13-450aad0c129e",
+    "eventCode": "RCD1020E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-21",
+    "eventTz": "2023-10-22T06:00Z",
+    "eventId": "cdef8694-0db9-46af-a670-3821aa268de1",
+    "eventCode": "RCD1021E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-22",
+    "eventTz": "2023-10-23T05:00Z",
+    "eventId": "eee02f1b-95b8-4964-a850-664c7a9d3ce4",
+    "eventCode": "RCD1022E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-23",
+    "eventTz": "2023-10-24T05:00Z",
+    "eventId": "1820cca2-2bcf-4162-b160-d4a34a239d19",
+    "eventCode": "RCD1023E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-24",
+    "eventTz": "2023-10-25T05:00Z",
+    "eventId": "75fc0557-cec7-4a33-b4ba-729c885a844c",
+    "eventCode": "RCD1024E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-25",
+    "eventTz": "2023-10-26T05:00Z",
+    "eventId": "b1aff498-89c4-47f6-a1f5-094da2d5c0b9",
+    "eventCode": "RCD1025E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-26",
+    "eventTz": "2023-10-27T05:00Z",
+    "eventId": "3391f5d5-ef47-4a2b-9a2c-e53fde0c1f96",
+    "eventCode": "RCD1026E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-27",
+    "eventTz": "2023-10-28T06:00Z",
+    "eventId": "ba144c28-affa-44b9-bedf-fe377862a469",
+    "eventCode": "RCD1027E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-28",
+    "eventTz": "2023-10-29T06:00Z",
+    "eventId": "690e6426-496f-4d0c-9466-a3646b73a81c",
+    "eventCode": "RCD1028E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-29",
+    "eventTz": "2023-10-30T05:00Z",
+    "eventId": "41448b5f-8852-4d4d-a2c0-118f5dfe2d08",
+    "eventCode": "RCD1029E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-30",
+    "eventTz": "2023-10-31T05:00Z",
+    "eventId": "838bc0df-c794-478d-99af-858600464685",
+    "eventCode": "RCD1030E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-10-31",
+    "eventTz": "2023-11-01T05:00Z",
+    "eventId": "cfde31fb-a49e-411f-aa29-309aa10022e4",
+    "eventCode": "RCD1031E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-01",
+    "eventTz": "2023-11-02T05:00Z",
+    "eventId": "47cf4a48-e79c-43f0-bf04-cd0d8cf2d1ae",
+    "eventCode": "RCD1101E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-02",
+    "eventTz": "2023-11-03T05:00Z",
+    "eventId": "02fabb8f-1683-48a2-befa-df5f227b37ce",
+    "eventCode": "RCD1102E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-03",
+    "eventTz": "2023-11-04T06:00Z",
+    "eventId": "938201e3-1776-402d-ac6f-3f796ad0ca0f",
+    "eventCode": "RCD1103E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-04",
+    "eventTz": "2023-11-05T06:00Z",
+    "eventId": "17c4bc38-fd86-4401-8443-d85e470bd2fc",
+    "eventCode": "RCD1104E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-05",
+    "eventTz": "2023-11-06T06:00Z",
+    "eventId": "cdee4934-0c44-409b-b9e2-f97802b3420d",
+    "eventCode": "RCD1105E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-06",
+    "eventTz": "2023-11-07T06:00Z",
+    "eventId": "2fe0da2a-e92b-4f7d-b056-57f401412ce5",
+    "eventCode": "RCD1106E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-07",
+    "eventTz": "2023-11-08T06:00Z",
+    "eventId": "3ec32f63-afb4-4db3-a320-2fbdc11ceac1",
+    "eventCode": "RCD1107E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-08",
+    "eventTz": "2023-11-09T06:00Z",
+    "eventId": "0e562c6f-8b41-47d1-a96d-ac50b64c030b",
+    "eventCode": "RCD1108E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-09",
+    "eventTz": "2023-11-10T06:00Z",
+    "eventId": "bc753cfa-9f65-4a44-b0ad-6a9b4c24792a",
+    "eventCode": "RCD1109E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-10",
+    "eventTz": "2023-11-11T07:00Z",
+    "eventId": "843b5037-2eb5-4c3e-a1f5-5e882a9d25cb",
+    "eventCode": "RCD1110E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-11",
+    "eventTz": "2023-11-12T07:00Z",
+    "eventId": "260e1db3-721d-4452-a3c4-78a69261bbcd",
+    "eventCode": "RCD1111E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-12",
+    "eventTz": "2023-11-13T06:00Z",
+    "eventId": "cc59e32a-c0af-40c5-b82f-65c2dc2e5d13",
+    "eventCode": "RCD1112E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-13",
+    "eventTz": "2023-11-14T06:00Z",
+    "eventId": "175247a2-7384-489c-a8c0-ffdfa7c4b878",
+    "eventCode": "RCD1113E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-14",
+    "eventTz": "2023-11-15T06:00Z",
+    "eventId": "098e8411-f23e-442e-bd38-63b59a4b07bb",
+    "eventCode": "RCD1114E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-15",
+    "eventTz": "2023-11-16T06:00Z",
+    "eventId": "c2e58fdc-691f-422e-af81-274bb749ea24",
+    "eventCode": "RCD1115E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-16",
+    "eventTz": "2023-11-17T06:00Z",
+    "eventId": "0178f1ca-de28-4b56-a977-da6ad01d5cf8",
+    "eventCode": "RCD1116E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-17",
+    "eventTz": "2023-11-18T07:00Z",
+    "eventId": "865fb02e-2d16-48bd-b84e-eb894e11a105",
+    "eventCode": "RCD1117E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-18",
+    "eventTz": "2023-11-19T07:00Z",
+    "eventId": "f2ed6a69-89c2-45ab-9468-2eb7c7f27906",
+    "eventCode": "RCD1118E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-19",
+    "eventTz": "2023-11-20T06:00Z",
+    "eventId": "99fe613a-3ca1-48f5-946a-1d711bed0154",
+    "eventCode": "RCD1119E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-20",
+    "eventTz": "2023-11-21T06:00Z",
+    "eventId": "72ea9861-e5b8-4045-b910-da1e829bdfd0",
+    "eventCode": "RCD1120E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-21",
+    "eventTz": "2023-11-22T06:00Z",
+    "eventId": "cb1e1d9d-ed9c-43a1-968b-7a895912379b",
+    "eventCode": "RCD1121E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-22",
+    "eventTz": "2023-11-23T06:00Z",
+    "eventId": "0222378f-1635-4feb-89d0-3f995ef2f694",
+    "eventCode": "RCD1122E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-23",
+    "eventTz": "2023-11-24T06:00Z",
+    "eventId": "a4eded3e-1c4f-45f0-9871-8b40ad5423c6",
+    "eventCode": "RCD1123E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-24",
+    "eventTz": "2023-11-25T07:00Z",
+    "eventId": "8cc48950-d0a8-4e5b-b359-4d4d95941681",
+    "eventCode": "RCD1124E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-25",
+    "eventTz": "2023-11-26T07:00Z",
+    "eventId": "e294d70d-defb-47c8-b6a4-27e08829d3c2",
+    "eventCode": "RCD1125E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-26",
+    "eventTz": "2023-11-27T06:00Z",
+    "eventId": "14fa8539-eca3-4467-8fdb-0fd1688c5954",
+    "eventCode": "RCD1126E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-27",
+    "eventTz": "2023-11-28T06:00Z",
+    "eventId": "5b40f02a-220d-4bbe-a3fb-31a6b1f1bf0c",
+    "eventCode": "RCD1127E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-28",
+    "eventTz": "2023-11-29T06:00Z",
+    "eventId": "77cb9217-fc27-46c0-a755-cb1083158f78",
+    "eventCode": "RCD1128E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-29",
+    "eventTz": "2023-11-30T06:00Z",
+    "eventId": "9cb5f228-0c0f-4e67-bab0-1b515a7b604e",
+    "eventCode": "RCD1129E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-11-30",
+    "eventTz": "2023-12-01T06:00Z",
+    "eventId": "70fb8e82-0be1-4de9-a351-106549afed80",
+    "eventCode": "RCD1130E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-01",
+    "eventTz": "2023-12-02T07:00Z",
+    "eventId": "7f21c7b3-3f47-4df0-a3ba-081d8d94ad45",
+    "eventCode": "RCD1201E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-02",
+    "eventTz": "2023-12-03T07:00Z",
+    "eventId": "5746a255-0f23-437f-98bf-20e7d7cce67c",
+    "eventCode": "RCD1202E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-03",
+    "eventTz": "2023-12-04T06:00Z",
+    "eventId": "a80da053-3343-4839-869d-92f3ce16e872",
+    "eventCode": "RCD1203E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-04",
+    "eventTz": "2023-12-05T06:00Z",
+    "eventId": "7ff902f0-612d-4131-bfa8-02fc966e45d8",
+    "eventCode": "RCD1204E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-05",
+    "eventTz": "2023-12-06T06:00Z",
+    "eventId": "9e5c7de0-cb54-4d0a-871d-ef0f1f382381",
+    "eventCode": "RCD1205E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-06",
+    "eventTz": "2023-12-07T06:00Z",
+    "eventId": "4ef4504e-ca5a-4049-b58b-0113007ae195",
+    "eventCode": "RCD1206E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-07",
+    "eventTz": "2023-12-08T06:00Z",
+    "eventId": "b03a3b14-bb0e-4ff7-9ce9-4777760852d4",
+    "eventCode": "RCD1207E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-08",
+    "eventTz": "2023-12-09T07:00Z",
+    "eventId": "9c22c90a-edd7-4ad9-8a5a-294f4899ddbe",
+    "eventCode": "RCD1208E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-09",
+    "eventTz": "2023-12-10T07:00Z",
+    "eventId": "3ac2f183-ddee-4157-a70a-4d90b63605a1",
+    "eventCode": "RCD1209E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-10",
+    "eventTz": "2023-12-11T06:00Z",
+    "eventId": "0421ad48-c310-4883-874d-657caf484e43",
+    "eventCode": "RCD1210E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-11",
+    "eventTz": "2023-12-12T06:00Z",
+    "eventId": "d2b95d89-92f8-4462-a706-d5b47e65705f",
+    "eventCode": "RCD1211E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-12",
+    "eventTz": "2023-12-13T06:00Z",
+    "eventId": "48a7d8cc-c8d0-42e9-b395-e18676b0cb6d",
+    "eventCode": "RCD1212E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-13",
+    "eventTz": "2023-12-14T06:00Z",
+    "eventId": "a234f70d-23f2-4e4e-a23e-e88dda127500",
+    "eventCode": "RCD1213E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-14",
+    "eventTz": "2023-12-15T06:00Z",
+    "eventId": "b467d82f-ed5e-467c-b85c-c5190b136dff",
+    "eventCode": "RCD1214E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-15",
+    "eventTz": "2023-12-16T07:00Z",
+    "eventId": "e5a049d8-b114-4733-9c1a-b9ed5f2004a2",
+    "eventCode": "RCD1215E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-16",
+    "eventTz": "2023-12-17T07:00Z",
+    "eventId": "81644e0c-fc5a-43df-8342-c7f45398d581",
+    "eventCode": "RCD1216E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-17",
+    "eventTz": "2023-12-18T06:00Z",
+    "eventId": "8e15a5b7-b56b-40e4-b229-ff480cb021af",
+    "eventCode": "RCD1217E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-18",
+    "eventTz": "2023-12-19T06:00Z",
+    "eventId": "f719903e-ff19-4c2b-a7e1-bff60c354b82",
+    "eventCode": "RCD1218E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-19",
+    "eventTz": "2023-12-20T06:00Z",
+    "eventId": "4fb2c161-23e0-449e-9339-5a230e4f9a82",
+    "eventCode": "RCD1219E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-20",
+    "eventTz": "2023-12-21T06:00Z",
+    "eventId": "b8be8f0a-5859-4074-9c26-eb710f4c04fe",
+    "eventCode": "RCD1220E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-21",
+    "eventTz": "2023-12-22T06:00Z",
+    "eventId": "c8e41be4-ce8b-4f24-bc3e-67398cc2eb8a",
+    "eventCode": "RCD1221E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-22",
+    "eventTz": "2023-12-23T07:00Z",
+    "eventId": "1bf3a8e2-66bf-4a9a-9b3c-d07578b9f32c",
+    "eventCode": "RCD1222E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-23",
+    "eventTz": "2023-12-24T07:00Z",
+    "eventId": "cffe21d4-4d63-44e3-a40f-8416d1b3182f",
+    "eventCode": "RCD1223E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-24",
+    "eventTz": "2023-12-25T06:00Z",
+    "eventId": "3f455c62-97d6-4b25-bd3c-976f1c08086d",
+    "eventCode": "RCD1224E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-25",
+    "eventTz": "2023-12-26T06:00Z",
+    "eventId": "bab5ca9f-408e-4e0d-9a64-c819761995aa",
+    "eventCode": "RCD1225E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-26",
+    "eventTz": "2023-12-27T06:00Z",
+    "eventId": "8f40cfcf-60f1-4106-ae5e-08d240b6f63a",
+    "eventCode": "RCD1226E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-27",
+    "eventTz": "2023-12-28T06:00Z",
+    "eventId": "abeeeb88-90a2-4bd5-80b5-094763377dec",
+    "eventCode": "RCD1227E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-28",
+    "eventTz": "2023-12-29T06:00Z",
+    "eventId": "abef80bd-b66a-4e68-85dd-4635846878ad",
+    "eventCode": "RCD1228E",
+    "eventTime": "10:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-29",
+    "eventTz": "2023-12-30T07:00Z",
+    "eventId": "bde800a0-e2a4-4a8a-83ac-d0d49434b085",
+    "eventCode": "RCD1229E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  },
+  {
+    "eventDate": "2023-12-30",
+    "eventTz": "2023-12-31T07:00Z",
+    "eventId": "ca22d142-7bb3-4d4e-b7fb-7d615be27062",
+    "eventCode": "RCD1230E",
+    "eventTime": "11:00 PM",
+    "seasonId": "507f9d3c-863a-4bf5-a6bb-eaa40c9db9e6",
+    "offerAvailable": false
+  }
+]
